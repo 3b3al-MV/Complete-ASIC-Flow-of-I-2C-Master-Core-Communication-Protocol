@@ -1,6 +1,9 @@
 # ASIC Design Project: I2C Master Core
 
 This project demonstrates the complete ASIC design flow for an I2C Master Core communication protocol using the Synopsys EDA suite of tools.
+## Final Routed Chip
+
+![Final Routed Chip](Screenshots/10-Routing_Final.png)
 
 ## Introduction
 
