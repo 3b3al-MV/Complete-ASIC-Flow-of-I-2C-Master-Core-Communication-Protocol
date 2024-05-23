@@ -41,6 +41,8 @@ The front-end design flow started with RTL design and specification, followed by
 
 The back-end design flow involved converting RTL netlist to GDSII using IC Compiler. Floor planning, power planning, placement, clock tree synthesis (CTS), routing, filler cell insertion, and static timing analysis (STA) were performed to achieve optimization in physical design, power consumption, and high performance.
 
+## Testing Configuration with VS Code
+
 ## Conclusion
 
 This project successfully implemented the complete ASIC design flow for an I2C Master Core, achieving high communication speed and meeting project objectives. Key achievements include RTL to GDSII flow, physical design optimization, power optimization, and achieving high performance within the targeted area.
